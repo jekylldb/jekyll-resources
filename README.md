@@ -14,6 +14,7 @@
 
 ## stackoverflow
 - http://stackoverflow.com/search?q=jekyll+liquid
+- http://stackoverflow.com/questions/tagged/github-pages
 
 ## theme sites
 - http://themes.jekyllrc.org/
@@ -22,3 +23,6 @@
 - https://jekyllthemes.io/
 - http://jekyll.tips/templates/
 - https://github.com/jekyll/jekyll/wiki/themes
+
+## gh-pages
+- https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
