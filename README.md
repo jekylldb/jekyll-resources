@@ -1,5 +1,8 @@
 # jekyll-resources
 
+## Jekyll
+- http://jekyllrb.com/
+- 
 ## liquid
 - https://shopify.github.io/liquid/
 - http://jekyll.tips/jekyll-cheat-sheet/
@@ -8,6 +11,7 @@
 - http://cheat.markdunkley.com/
 - http://nationbuilder.com/liquid_basics
 - https://github.com/Shopify/liquid
+- https://github.com/shopify/liquid/wiki/liquid-for-designers
 
 ## mega themes
 - https://github.com/plusjade/jekyll-bootstrap/
@@ -15,6 +19,7 @@
 ## stackoverflow
 - http://stackoverflow.com/search?q=jekyll+liquid
 - http://stackoverflow.com/questions/tagged/github-pages
+- http://stackoverflow.com/questions/tagged/jekyll
 
 ## theme sites
 - http://themes.jekyllrc.org/
